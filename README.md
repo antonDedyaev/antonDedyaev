@@ -12,7 +12,7 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
+            <span><strong>JavaScript</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
             <td width="80px" align="center">
@@ -43,8 +43,8 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=antonDedyaev&show_icons=true&theme=react"/ width="47%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonDedyaev&layout=compact"/ width="47%">
+<img src="https://github-readme-stats.vercel.app/api?username=antonDedyaev&show_icons=true&theme=react" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonDedyaev&layout=compact" width="47%"/>
 <!---
 antonDedyaev/antonDedyaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
