@@ -11,13 +11,28 @@
   </h3>
   
   <h4>Let's keep in touch:</h4>
-My :iphone:: +79205025834
+Call me or text me :iphone:: +79205025834
 
-My :email::  **antondedyaev@gmail.com**
+Write me :email::  **antondedyaev@gmail.com**
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dedyaev_anton) 
-<a href="https://ru.hexlet.io/u/antonnewby"><img src="https://cdn2.hexlet.io/assets/logo_en-303016bc81a00719859068f3e01c5d319ed916296621e1025491cc69f052ec84.svg" width="70"></a>
-  
+Find me :mag: on
+
+<table width="400px">
+    <tbody>
+        <tr>
+            <td width="130px" align="center">
+            <a href="https://t.me/dedyaev_anton"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" width="100"></a>
+            </td>
+            <td width="130px" align="center">
+            <a href="https://ru.hexlet.io/u/antonnewby"><img src="https://cdn2.hexlet.io/assets/logo_en-303016bc81a00719859068f3e01c5d319ed916296621e1025491cc69f052ec84.svg" width="70"></a>
+            </td>
+            <td width="130px" align="center">
+            <a href="https://www.linkedin.com/comm/in/anton-dedyaev-08250156/zluvsand/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" width="130"></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+ 
 <div align="center">
   <h3>Tools and languages that I use:</h3>
 
