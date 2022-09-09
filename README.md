@@ -27,7 +27,7 @@ Find me :mag: on
             <a href="https://ru.hexlet.io/u/antonnewby"><img src="https://cdn2.hexlet.io/assets/logo_en-303016bc81a00719859068f3e01c5d319ed916296621e1025491cc69f052ec84.svg" width="70"></a>
             </td>
             <td width="130px" align="center">
-            <a href="https://www.linkedin.com/comm/in/anton-dedyaev-08250156/zluvsand/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" width="130"></a>
+            <a href="https://www.linkedin.com/in/anton-dedyaev-08250156/zluvsand/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" width="130"></a>
             </td>
         </tr>
     </tbody>
@@ -72,5 +72,9 @@ Find me :mag: on
   <h3>My stats</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=antonDedyaev&show_icons=true&theme=react" width="48%" height="200"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonDedyaev&layout=compact" width="48%" height="200"/>
+
+<h3>My recent projects</h3>
+ 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl1" width="33%"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl2" width="33%"/><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl3" width="33%"/>
 
 
