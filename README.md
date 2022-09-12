@@ -11,11 +11,11 @@
   </h3>
   
   <h4>Let's keep in touch:</h4>
-Call me or text me :iphone:: +79205025834
+  <p>Call me or text me :iphone:: +79205025834</p>
 
-Write me :email::  **antondedyaev@gmail.com**
+  <p>Mail me :email::  antondedyaev@gmail.com</p>
 
-Find me :mag: on
+  <p>Find me :mag: on:</p>
 
 <table width="400px">
     <tbody>
@@ -75,6 +75,6 @@ Find me :mag: on
 
 <h3>My recent projects</h3>
  
-<a href="https://github.com/antonDedyaev/frontend-project-lvl1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl1" width="33%"/></a><a href="https://github.com/antonDedyaev/frontend-project-lvl2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl2" width="33%"/></a><a href="https://github.com/antonDedyaev/frontend-project-lvl3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl3" width="33%"/></a>
+<a href="https://github.com/antonDedyaev/frontend-project-lvl1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl1" width="33%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl2" width="33%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl3" width="33%"/></a>
 
 
