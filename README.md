@@ -79,6 +79,6 @@
 
 <h3>My recent projects</h3>
  
-<a href="https://github.com/antonDedyaev/frontend-project-lvl1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl1" width="33%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl2" width="33%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl3" width="33%"/></a>
+<a href="https://github.com/antonDedyaev/frontend-project-lvl1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl1" width="23%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl2" width="23%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl3" width="23%"/></a><a href="https://github.com/antonDedyaev/frontend-project-12"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl4" width="23%"/></a>
 
 
