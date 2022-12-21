@@ -7,7 +7,7 @@
   <h3>I’m interested in computer science :computer: and foreign languages.</h3>
 
   
-  <h3>Graduated from <a href="https://ru.hexlet.io/">Hexlet</a>, right now I'm digging deeper into JavaScript and trying to find my place in the world of frontend developers :muscle: !
+  <h3>Graduated from <a href="https://ru.hexlet.io/">Hexlet</a>, right now I'm learning TypeScript, digging deeper into JavaScript and trying to find my place in the world of frontend developers :muscle: !
   </h3>
   
   <h4>Let's keep in touch:</h4>
