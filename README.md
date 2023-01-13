@@ -75,10 +75,10 @@
 
   <h3>My stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=antonDedyaev&show_icons=true&theme=react" width="48%" height="200"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonDedyaev&layout=compact" width="48%" height="200"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=antonDedyaev&show_icons=true&theme=react" width="48%" height="200"/>  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=antonDedyaev&layout=compact" width="48%" height="200"/>
 
 <h3>My recent projects</h3>
  
-<a href="https://github.com/antonDedyaev/frontend-project-lvl1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl1" width="23%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl2" width="23%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl3" width="23%"/></a> <a href="https://github.com/antonDedyaev/frontend-project-12"><img src="https://github-readme-stats.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-12" width="23%"/> </a>
+<a href="https://github.com/antonDedyaev/frontend-project-lvl1"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl1" width="23%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl2"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl2" width="23%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl3"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl3" width="23%"/></a> <a href="https://github.com/antonDedyaev/frontend-project-12"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-12" width="23%"/> </a>
 
 
