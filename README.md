@@ -7,7 +7,7 @@
   <h3>I’m interested in computer science :computer: and foreign languages.</h3>
 
   
-  <h3>Graduated from <a href="https://ru.hexlet.io/">Hexlet</a>, right now I'm learning TypeScript, digging deeper into JavaScript and trying to find my place in the world of frontend developers :muscle: !
+  <h3>Graduated from <a href="https://ru.hexlet.io/">Hexlet</a>, right now I'm practicing TypeScript, digging deeper into JavaScript and trying to find my place in the world of frontend developers :muscle: !
   </h3>
   
   <h4>Let's keep in touch:</h4>
@@ -39,6 +39,7 @@
 
 <div align="center">
   <h3>Tools and languages that I use:</h3>
+          
 
 <table width="320px">
     <tbody>
@@ -46,6 +47,10 @@
             <td width="100px" align="center">
               <span><strong>JavaScript</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td>
+            <td width="100px" align="center">
+              <span><strong>TypeScript</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
             </td>
             <td width="100px" align="center">
               <span><strong>HTML</strong></span><br>
@@ -76,6 +81,10 @@
             <td width="100px" align="center">
               <span><strong>GitHub</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            </td>
+            <td width="100px" align="center">
+              <span><strong>Webpack</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
             </td>
         </tr>
     </tbody>
