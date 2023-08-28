@@ -4,10 +4,10 @@
   <h2 align="center">Hi there 👋, I’m Anton!</h2>
 </div>
 
-  <h3>I’m interested in computer science :computer: and foreign languages.</h3>
+  <h3>I've graduated from <a href="https://ru.hexlet.io/">Hexlet</a>.</h3>
 
   
-  <h3>I'm <a href="https://ru.hexlet.io/">Hexlet</a> graduate currently searching for a job as a Frontend Developer (Javascript / Typescript) !
+  <h3>I'm stocked about Frontend development and open to job proposals (Frontend Dev: Javascript / Typescript) !
   </h3>
   
   <h4>Let's keep in touch:</h4>
@@ -38,7 +38,7 @@
   
 
 <div align="center">
-  <h3>Tools and languages that I use:</h3>
+  <h3>My stack:</h3>
           
 
 <table width="320px">
@@ -65,6 +65,10 @@
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
             </td>
             <td width="100px" align="center">
+              <span><strong>Figma</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+            </td>
+            <td width="100px" align="center">
               <span><strong>Gulp</strong></span><br>
               <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
             </td>
@@ -81,6 +85,10 @@
             <td width="100px" align="center">
               <span><strong>Next</strong></span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+            </td>
+            <td width="100px" align="center">
+              <span><strong>Vue</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
             </td>
             <td width="100px" align="center">
               <span><strong>Redux</strong></span><br>
