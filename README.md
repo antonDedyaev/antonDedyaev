@@ -7,7 +7,7 @@
   <h3>I've graduated from <a href="https://ru.hexlet.io/">Hexlet</a>.</h3>
 
   
-  <h3>I'm stocked about Frontend development and open to job proposals (Frontend Dev: Javascript / Typescript) !
+  <h3>I'm passionate about Frontend development and open to job proposals (Frontend Dev: Javascript / Typescript) !
   </h3>
   
   <h4>Let's keep in touch:</h4>
@@ -120,6 +120,6 @@
 
 <h3>My recent projects</h3>
  
-<a href="https://github.com/antonDedyaev/streaming_service"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=streaming_service" width="23%"/> <a href="https://github.com/antonDedyaev/sultan-shop"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=sultan-shop" width="23%"/> </a> <a href="https://github.com/antonDedyaev/Mini-Slack-app"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=Mini-Slack-app" width="23%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl3"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl3" width="23%"/></a>
+<a href="https://github.com/antonDedyaev/streaming_service"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=streaming_service" width="23%"/> <a href="https://github.com/antonDedyaev/sultan-shop"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=sultan-shop" width="23%"/> </a> <a href="https://github.com/antonDedyaev/asteroid_watch"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=asteroid_watch" width="23%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl3"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl3" width="23%"/></a>
 
 
