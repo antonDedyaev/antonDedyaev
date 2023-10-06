@@ -120,6 +120,6 @@
 
 <h3>My recent projects</h3>
  
-<a href="https://github.com/antonDedyaev/streaming_service"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=streaming_service" width="23%"/> <a href="https://github.com/antonDedyaev/sultan-shop"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=sultan-shop" width="23%"/> </a> <a href="https://github.com/antonDedyaev/asteroid_watch"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=asteroid_watch" width="23%"/> </a><a href="https://github.com/antonDedyaev/frontend-project-lvl3"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=frontend-project-lvl3" width="23%"/></a>
+<a href="https://github.com/antonDedyaev/streaming_service"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=streaming_service" width="23%"/> <a href="https://github.com/antonDedyaev/sultan-shop"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=sultan-shop" width="23%"/> </a> <a href="https://github.com/antonDedyaev/asteroid_watch"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=asteroid_watch" width="23%"/> </a><a href="https://github.com/antonDedyaev/todo_list"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=antonDedyaev&repo=todo_list" width="23%"/></a>
 
 
